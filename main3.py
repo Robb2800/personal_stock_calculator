@@ -1,5 +1,6 @@
 import streamlit as st
 
+
 # --- Existing Functions ---
 def calculate_new_avg(avg_price, current_price, current_lots, buy_lots):
     """Calculates the new average price after buying additional lots."""
